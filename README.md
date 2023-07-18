@@ -1,3 +1,3 @@
-# EV Machine Learning Project
+# Real Estate Machine Learning Project
 
-Electric vehicle machine learning project
+US Real Estate machine learning project
