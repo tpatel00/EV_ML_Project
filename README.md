@@ -1,1 +1,3 @@
-# EV_ML_Project
+# EV Machine Learning Project
+
+Electric vehicle machine learning project
